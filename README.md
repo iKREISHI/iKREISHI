@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shiro-kreishi</h1>
+<h1 align="center">Hi 👋, I'm iKREISHI</h1>
 <h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **Django, FastApi, ReactJS**
